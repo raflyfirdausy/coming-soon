@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Aug 2020 10:06:55 at https://promo-theme.com/somo/coming-soon/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://promo-theme.com/somo/coming-soon/ -O1 "D:\httrack\comingsoon\comingsoon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:07:23	Error: 	"Not Found" (404) at link https://promo-theme.com/somo/wp-content/plugins/pt-somo-addons/assets/imgs/preloader.gif (from https://promo-theme.com/somo/wp-content/plugins/pt-somo-addons/assets/css/photoswipe.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 70 links scanned, 68 files written (1540761 bytes overall) [622373 bytes received at 21461 bytes/sec], 1249778 bytes transferred using HTTP compression in 43 files, ratio 21%, 14.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
